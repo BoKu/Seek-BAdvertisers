@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hide Agencies on Seek
+// @name         Seek-BAdvertisers
 // @namespace    https://github.com/BoKu/Seek-BAdvertisers
 // @version      0.1
 // @description  Hides agency adverts on Seek
